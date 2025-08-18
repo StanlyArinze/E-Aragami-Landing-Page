@@ -35,6 +35,8 @@ Oferecer uma página inicial moderna, clara e atrativa para promover cursos e co
 
 ## 📸 Imagens
 
+<img width="1845" height="997" alt="landing1" src="https://github.com/user-attachments/assets/8d1dd7c7-30b2-4ac0-a165-77c2f1f7f324" />
+<img width="1840" height="997" alt="landing2" src="https://github.com/user-attachments/assets/681f1fbd-d4a8-4211-984e-70a04dc83b6b" />
 
 
 ## 📜 Licença
