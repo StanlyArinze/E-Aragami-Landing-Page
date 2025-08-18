@@ -34,12 +34,11 @@ Oferecer uma página inicial moderna, clara e atrativa para promover cursos e co
 - Design responsivo (mobile-first)
 
 ## 📸 Imagens
-<img width="1844" height="996" alt="image" src="https://github.com/user-attachments/assets/f7e57f78-931a-4433-a748-d572de46e653" />
-<img width="1841" height="998" alt="image" src="https://github.com/user-attachments/assets/245bbbd6-dbd2-4583-95a8-abe1421014c6" />
+
 
 
 ## 📜 Licença
 Este projeto está sob licença MIT. Sinta-se livre para usar, modificar e distribuir.
 
 ---
-**Desenvolvido para demonstração da identidade visual e layout da E‑Aragami.**
+**Desenvolvido para demonstração da identidade visual e layout da E‑Arigame.**
