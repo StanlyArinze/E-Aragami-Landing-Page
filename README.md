@@ -1,9 +1,9 @@
-# E‑Aragami — Landing Page
+# E‑Arigame — Landing Page
 
-Este projeto é uma **landing page responsiva e acessível** para a plataforma E‑Aragami, utilizando tons fluorescentes de verde e azul, com detalhes em branco e preto.
+Este projeto é uma **landing page responsiva e acessível** para a plataforma E‑Arigame, utilizando tons fluorescentes de verde e azul, com detalhes em branco e preto.
 
 ## 🎯 Objetivo
-Oferecer uma página inicial moderna, clara e atrativa para promover cursos e conteúdos educacionais da plataforma E‑Aragami.
+Oferecer uma página inicial moderna, clara e atrativa para promover cursos e conteúdos educacionais da plataforma E‑Arigame.
 
 ## 🖌️ Paleta de Cores
 - **Verde fluorescente**: `#00ff66`, `#00ff80`, `#00ffaa`, `#33ffbb`
